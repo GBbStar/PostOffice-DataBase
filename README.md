@@ -59,18 +59,17 @@
 ### 구성요소
 * [Oracle DB](https://www.oracle.com)
 * [StarUML](https://staruml.io/)
-
+* [SQL]
 
 <!-- GETTING STARTED -->
 ## 시작하기
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
+해당 프로젝트를 개인 사용자가 사용하는 방법
+개인 사용자가 사용하기 위해 필요한 정보들을 알려주는 곳
 
 ### 필수조건
 
-This is an example of how to list things you need to use the software and how to install them.
+해당 프로젝트 사용을 위해, 우선적으로 수행되어야 하는 것
 * npm
 ```sh
 npm install npm@latest -g
