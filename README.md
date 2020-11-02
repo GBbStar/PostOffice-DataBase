@@ -52,8 +52,8 @@
 <br/>
 
 + 자세한 설명<br/>
-  프로젝트 문서 (https://github.com/HwangGyuBin/PostOffice-DataBase/blob/master/%EB%AC%BC%EC%88%98%EC%A0%9C%EB%B9%84(1%EC%A1%B0)/%EB%AC%BC%EC%88%98%EC%A0%9C%EB%B9%84(1%EC%A1%B0)%EB%B3%B4%EA%B3%A0%EC%84%9C.docx)
-   <br/> 프로젝트 PPT(https://github.com/HwangGyuBin/PostOffice-DataBase/blob/master/%EB%AC%BC%EC%88%98%EC%A0%9C%EB%B9%84(1%EC%A1%B0)/%EB%AC%BC%EC%88%98%EC%A0%9C%EB%B9%84%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9CPPT.pptx)
+  * [프로젝트 문서](https://github.com/HwangGyuBin/PostOffice-DataBase/blob/master/%EB%AC%BC%EC%88%98%EC%A0%9C%EB%B9%84(1%EC%A1%B0)/%EB%AC%BC%EC%88%98%EC%A0%9C%EB%B9%84(1%EC%A1%B0)%EB%B3%B4%EA%B3%A0%EC%84%9C.docx)
+  * [프로젝트 PPT](https://github.com/HwangGyuBin/PostOffice-DataBase/blob/master/%EB%AC%BC%EC%88%98%EC%A0%9C%EB%B9%84(1%EC%A1%B0)/%EB%AC%BC%EC%88%98%EC%A0%9C%EB%B9%84%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9CPPT.pptx)
 
 
 ### 구성요소
