@@ -59,7 +59,7 @@
 ### 구성요소
 * [Oracle DB](https://www.oracle.com)
 * [StarUML](https://staruml.io/)
-* [SQL](w3schools.com/sql/sql_intro.asp)
+* [SQL](https://en.wikipedia.org/wiki/SQL)
 
 <!-- GETTING STARTED -->
 ## 시작하기
