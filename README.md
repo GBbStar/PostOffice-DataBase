@@ -59,8 +59,8 @@
 <!-- TABLE OF CONTENTS -->
 ## 프로젝트 설명 목록
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
+* [프로젝트 개요](# 프로젝트 개요)
+  * [구성요소](#구성요소)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
@@ -75,12 +75,19 @@
 
 <!-- ABOUT THE PROJECT -->
 ## 프로젝트 개요
-https://github.com/HwangGyuBin/PostOffice-DataBase/blob/master/%EB%AC%BC%EC%88%98%EC%A0%9C%EB%B9%84(1%EC%A1%B0)/%EB%AC%BC%EC%88%98%EC%A0%9C%EB%B9%84%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9CPPT.pptx
+우편 서비스에서 요구하는 데이터베이스를 저희끼리 생각하고 만들어 본 프로젝트입니다.
+<br/>
+최대한 실제 환경과 유사한 데이터베이스를 구현하고자, 총합 2만여개의 데이터를 넣어 구현했습니다.
+<br/>
+
++ 자세한 설명<br/>
+  프로젝트 문서 : <br/>
+  프로젝트 PPT : https://github.com/HwangGyuBin/PostOffice-DataBase/blob/master/%EB%AC%BC%EC%88%98%EC%A0%9C%EB%B9%84(1%EC%A1%B0)/%EB%AC%BC%EC%88%98%EC%A0%9C%EB%B9%84%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9CPPT.pptx
 
 
-### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
+### 구성요소
+
+* [Oracle](https://www.oracle.com)
 * [JQuery](https://jquery.com)
 * [Laravel](https://laravel.com)
 
