@@ -1,32 +1,3 @@
-<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-<!--
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
--->
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -39,7 +10,7 @@
   <h3 align="center">데이터베이스 프로젝트</h3>
 
   <p align="center">
-    학교 커리큘럼에서 수행한 프로젝트
+    학교 커리큘럼 중 데이터베이스 과목에서 수행한 프로젝트
 <!--     
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
@@ -59,17 +30,17 @@
 <!-- TABLE OF CONTENTS -->
 ## 프로젝트 설명 목록
 
-* [프로젝트 개요](# 프로젝트 개요)
+* [프로젝트 개요](#프로젝트-개요)
   * [구성요소](#구성요소)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* [시작하기](#시작하기)
+  * [필수조건](#필수조건)
+  * [설치](#설치)
+* [사용하기](#사용하기)
+* [로드맵](#로드맵)
+* [기여](#기여)
+* [라이센스](#라이센스)
+* [연락처](#연락처)
+* [권한](#권한)
 
 
 
@@ -86,20 +57,18 @@
 
 
 ### 구성요소
-
-* [Oracle](https://www.oracle.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
+* [Oracle DB](https://www.oracle.com)
+* [StarUML](https://staruml.io/)
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## 시작하기
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+
+### 필수조건
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -107,7 +76,7 @@ This is an example of how to list things you need to use the software and how to
 npm install npm@latest -g
 ```
 
-### Installation
+### 설치
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -126,25 +95,24 @@ const API_KEY = 'ENTER YOUR API';
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## 사용하기
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+이 공간을 사용하여 프로젝트를 사용할 수 있는 유용한 예를 보여 주십시오. 이 공간에서는 추가 스크린샷, 코드 예제, 데모 등이 잘 작동한다. 또한 더 많은 리소스에 연결할 수 있다.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+## 로드맵
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## 기여
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -155,14 +123,14 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- LICENSE -->
-## License
+## 라이센스
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
 <!-- CONTACT -->
-## Contact
+## 연락처
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
@@ -171,7 +139,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## 권한
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
