@@ -75,8 +75,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## 프로젝트 개요
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
+https://github.com/HwangGyuBin/PostOffice-DataBase/blob/master/%EB%AC%BC%EC%88%98%EC%A0%9C%EB%B9%84(1%EC%A1%B0)/%EB%AC%BC%EC%88%98%EC%A0%9C%EB%B9%84%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9CPPT.pptx
 
 
 ### Built With
