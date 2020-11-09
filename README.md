@@ -39,7 +39,7 @@
 
 
 
-
+<br/><br/><br/>
 <!-- ABOUT THE PROJECT -->
 ## 프로젝트 개요
 우편 서비스에서 요구하는 데이터베이스를 저희끼리 생각하고 만들어 본 프로젝트입니다.
@@ -50,19 +50,19 @@
 + 자세한 설명<br/>
   * [프로젝트 문서](https://github.com/HwangGyuBin/PostOffice-DataBase/blob/master/%EB%AC%BC%EC%88%98%EC%A0%9C%EB%B9%84(1%EC%A1%B0)/%EB%AC%BC%EC%88%98%EC%A0%9C%EB%B9%84(1%EC%A1%B0)%EB%B3%B4%EA%B3%A0%EC%84%9C.docx)
   * [프로젝트 PPT](https://github.com/HwangGyuBin/PostOffice-DataBase/blob/master/%EB%AC%BC%EC%88%98%EC%A0%9C%EB%B9%84(1%EC%A1%B0)/%EB%AC%BC%EC%88%98%EC%A0%9C%EB%B9%84%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9CPPT.pptx)
-
+<br/><br/><br/>
 
 ### 구성요소
 * [Oracle DB](https://www.oracle.com)
 * [StarUML](https://staruml.io/)
 * [SQL](https://en.wikipedia.org/wiki/SQL)
-
+<br/><br/><br/>
 <!-- GETTING STARTED -->
 ## 시작하기
 
 해당 프로젝트를 개인 사용자가 사용하는 방법
 개인 사용자가 사용하기 위해 필요한 정보들을 알려주는 곳
-
+<br/><br/><br/>
 ### 필수조건
 
 해당 프로젝트 사용을 위해, 우선적으로 수행되어야 하는 것
@@ -70,7 +70,7 @@
 ```sh
 npm install npm@latest -g
 ```
-
+<br/><br/><br/>
 ### 설치
 
 1. Get a free API Key at [https://example.com](https://example.com)
@@ -86,7 +86,7 @@ npm install
 ```JS
 const API_KEY = 'ENTER YOUR API';
 ```
-
+<br/><br/><br/>
 
 
 <!-- USAGE EXAMPLES -->
@@ -97,5 +97,5 @@ const API_KEY = 'ENTER YOUR API';
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 
-
+<br/><br/><br/>
 
