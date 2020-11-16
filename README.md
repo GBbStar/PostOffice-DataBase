@@ -7,7 +7,7 @@
   </a> 
 -->
 
-  <h3 align="center">데이터베이스 프로젝트</h3>
+  <h1 align="center">데이터베이스 프로젝트</h1>
 
   <p align="center">
     학교 커리큘럼 중 데이터베이스 과목에서 수행한 프로젝트
